@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Ma page web de folie</title>
+		<title>IHM_Robot</title>
 	</head>
 	<body>
 		<div style="border:solid;border-radius: 50px;width: 50%;margin-left: 25%;margin-right: 25%;background-color: silver">
